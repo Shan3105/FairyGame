@@ -10,10 +10,10 @@ var f, fI;
 var fs;
 function preload()
 {
-	bgI = loadImage("images/starNight.png");
-  fI = loadAnimation("images/fairyImage1.png","images/fairyImage2.png");
-  sI = loadImage("images/star.png");
-  fs = loadSound("sound/JoyMusic.mp3");
+	bgI = loadImage("starNight.png");
+  fI = loadAnimation("fairyImage1.png","fairyImage2.png");
+  sI = loadImage("star.png");
+  fs = loadSound("JoyMusic.mp3");
  
 }
 
